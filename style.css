@@ -1,0 +1,38 @@
+*, html, body {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.navbar {
+    margin: 10px;
+    height: 70px;
+    padding: 10px;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+.navbar ul {
+    margin-left: 40px;
+}
+
+.judul1 {
+    background-color: black;
+    display: inline-block;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+    box-shadow: 10px 10px 110px -1px rgba(0,0,0,0.33);
+-webkit-box-shadow: 10px 10px 110px -1px rgba(0,0,0,0.33);
+-moz-box-shadow: 10px 10px 110px -1px rgba(0,0,0,0.33);
+}
+
+.judul2 {
+    margin-left: 5px;
+    margin-top: 10px;
+    font-size: 30px;
+}
